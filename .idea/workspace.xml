@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f07c3c45-3ed9-44f1-bcd8-bcd09bc013ad" name="Changes" comment="" />
+    <list default="true" id="f07c3c45-3ed9-44f1-bcd8-bcd09bc013ad" name="Changes" comment="fix path of screenshot">
+      <change beforePath="$PROJECT_DIR$/Azure_GitHubAction.md" beforeDir="false" afterPath="$PROJECT_DIR$/Azure_GitHubAction.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2k3WzeVioIJppWpm3dOcjeFgarT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,9 +29,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/rpryimuk/IdeaProjects/cicdTutorial/example",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,10 +54,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722513003832</updated>
+      <workItem from="1722513005132" duration="11070000" />
     </task>
+    <task id="LOCAL-00001" summary="AWS CI/CD GitOps manual">
+      <created>1722583998052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722583998053</updated>
+    </task>
+    <task id="LOCAL-00002" summary="moved photo to another directory">
+      <created>1722584127763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722584127763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create simple tutorial about azure and github action">
+      <created>1722586730535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722586730536</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix path of screenshot">
+      <created>1722586877396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722586877397</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AWS CI/CD GitOps manual" />
+    <MESSAGE value="moved photo to another directory" />
+    <MESSAGE value="create simple tutorial about azure and github action" />
+    <MESSAGE value="fix path of screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix path of screenshot" />
   </component>
 </project>
