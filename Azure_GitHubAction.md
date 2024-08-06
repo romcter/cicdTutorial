@@ -1,3 +1,4 @@
+### [Link to swagger](https://crudforcicd-heh5cdfybjbzanaj.eastus-01.azurewebsites.net/swagger-ui/index.html)
 ## Tolls
 - Cloud Provider: Microsoft Azure
 - VCS: GitHub
